@@ -1,0 +1,1 @@
+# przesuwanie_divow
